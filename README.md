@@ -1,4 +1,4 @@
-# Dupe Diva
+# Dupe Diva (iOS)
 
 Dupe Diva is an iOS fashion discovery application designed to help users explore affordable clothing dupes and visually similar fashion items through a modern, mobile-first shopping experience.
 
@@ -63,7 +63,7 @@ The project follows a modular iOS application structure with CocoaPods dependenc
 Clone the repository:
 
 ```bash
-git clone https://github.com/rhea-modey/Dupe-Diva-App.git
+git clone https://github.com/rhea-modey/dupediva.git
 ```
 
 Install CocoaPods dependencies:
